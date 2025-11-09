@@ -1,0 +1,42 @@
+name: pertemuan4
+description: "A new Flutter project."
+
+# Prevents accidental publishing to pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image/avengers end game.jpg
+    - assets/image/black panther.jpg
+    - assets/image/deadpool.jpg
+    - assets/image/encanto.jpg
+    - assets/image/fight club.jpg
+    - assets/image/forrest gump.jpg
+    - assets/image/frozen ii.jpg
+    - assets/image/inception.jpg
+    - assets/image/interstellar.jpg
+    - assets/image/john wick 4.jpg
+    - assets/image/joker.jpg
+    - assets/image/spiderman.jpg
+    - assets/image/the batman.jpg
+    - assets/image/the dark knight.jpg
+    - assets/image/zootopia.jpg
