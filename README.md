@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pertemuan4
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Pertemuan4_Pemmob2
+>>>>>>> 1449ec0e2394abc41bf013366aa8b9f86fa61cfb
